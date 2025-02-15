@@ -1,6 +1,6 @@
 # C.A.B. Control A Body
 
-**Team Members:** Grant Yiu, Matthew Larm, Ken Zhao, Jack Yi
+**Team Members:** Grant Yiu, Matthew Larm, Alan Zhao, Jack Yi
 
 **How would you pitch your game in one line?**
 A stereotypical dungeon crawler but you start from the boss room and and you can control defeated mobs.
